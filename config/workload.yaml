@@ -16,4 +16,4 @@ spec:
     git:
       url: https://github.com/guybal/my-tanzu-app.git
       ref:
-        branch: main
+        branch: master
